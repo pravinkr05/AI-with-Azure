@@ -1,0 +1,4 @@
+Run >> python classify-text.py
+test1.txt was classified as 'Entertainment' with confidence score 0.33.
+test1.txt was classified as 'Entertainment' with confidence score 0.33.
+test2.txt was classified as 'Sports' with confidence score 0.33.
